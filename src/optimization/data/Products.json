@@ -1,0 +1,170 @@
+{
+    "products": [
+      {
+        "name": "XLSteak",
+        "constraints": {
+          "Line1Capacity": 24000,
+          "Line2Capacity": 10000,
+          "sixoz": 0.55,
+          "tenoz": 0.2,
+          "bruise_free": 0.88,
+          "hollow": 0.01,
+          "min_gravity": 1.08,
+          "max_gravity": 1.999,
+          "fry_color": 3,
+          "corn": 10.0
+        }
+      },
+      {
+        "name": "StraitCutNoPeel",
+        "constraints": {
+          "Line1Capacity": 24000,
+          "Line2Capacity": 10000,
+          "sixoz": 0.5,
+          "tenoz": 0.15,
+          "bruise_free": 0.75,
+          "hollow": 0.02,
+          "min_gravity": 1.078,
+          "max_gravity": 1.999,
+          "fry_color": 4,
+          "corn": 10.0
+        }
+      },
+      {
+        "name": "SkinnyFA",
+        "constraints": {
+          "Line1Capacity": 24000,
+          "Line2Capacity": 10000,
+          "sixoz": 0.4,
+          "tenoz": 0.0,
+          "bruise_free": 0.0,
+          "hollow": 1.0,
+          "min_gravity": 1.078,
+          "max_gravity": 1.999,
+          "fry_color": 99,
+          "corn": 10.0
+        }
+      },
+      {
+        "name": "StraitCutWithPeel",
+        "constraints": {
+          "Line1Capacity": 24000,
+          "Line2Capacity": 10000,
+          "sixoz": 0.5,
+          "tenoz": 0.15,
+          "bruise_free": 0.65,
+          "hollow": 0.05,
+          "min_gravity": 1.078,
+          "max_gravity": 1.999,
+          "fry_color": 8,
+          "corn": 10.0
+        }
+      },
+      {
+        "name": "BrandA",
+        "constraints": {
+          "Line1Capacity": 24000,
+          "Line2Capacity": 10000,
+          "sixoz": 0.5,
+          "tenoz": 0.1,
+          "bruise_free": 0.8,
+          "hollow": 0.06,
+          "min_gravity": 1.084,
+          "max_gravity": 1.095,
+          "fry_color": 6,
+          "corn": 10.0
+        }
+      },
+      {
+        "name": "HalfInchCrinkleXL",
+        "constraints": {
+          "Line1Capacity": 28000,
+          "Line2Capacity": 16000,
+          "sixoz": 0.6,
+          "tenoz": 0.20,
+          "bruise_free": 0.75,
+          "hollow": 0.03,
+          "min_gravity": 1.074,
+          "max_gravity": 1.999,
+          "fry_color": 12,
+          "corn": 0.0
+        }
+      },
+      {
+        "name": "HalfInchCrinkleFA",
+        "constraints": {
+          "Line1Capacity": 24000,
+          "Line2Capacity": 10000,
+          "sixoz": 0.5,
+          "tenoz": 0.0,
+          "bruise_free": 0.0,
+          "hollow": 1.0,
+          "min_gravity": 1.0,
+          "max_gravity": 2.0,
+          "fry_color": 100,
+          "corn": 0.0
+        }
+      },
+      {
+        "name": "BrandBatter",
+        "constraints": {
+          "Line1Capacity": 20000,
+          "Line2Capacity": 0,
+          "sixoz": 0.5,
+          "tenoz": 0.1,
+          "bruise_free": 0.65,
+          "hollow": 0.2,
+          "min_gravity": 1.073,
+          "max_gravity": 1.094,
+          "fry_color": 10,
+          "corn": 10.0
+        }
+      },
+      {
+        "name": "Chips",
+        "constraints": {
+          "Line1Capacity": 0,
+          "Line2Capacity": 7000,
+          "sixoz": 0.0,
+          "tenoz": 0.0,
+          "bruise_free": 0.8,
+          "hollow": 1.0,
+          "min_gravity": 1.09,
+          "max_gravity": 2.0,
+          "fry_color": 15,
+          "corn": 10.0
+        }
+      },
+      {
+        "name": "Ovens",
+        "constraints": {
+          "Line1Capacity": 24000,
+          "Line2Capacity": 10000,
+          "sixoz": 0.0,
+          "tenoz": 0.0,
+          "bruise_free": 0.8,
+          "hollow": 0.04,
+          "min_gravity": 0,
+          "max_gravity": 1.999,
+          "fry_color": 100,
+          "corn": 10.0
+        }
+      },
+      {
+        "name": "Flats",
+        "constraints": {
+          "Line1Capacity": 0,
+          "Line2Capacity": 8000,
+          "sixoz": 0.0,
+          "tenoz": 0.0,
+          "bruise_free": 0.0,
+          "hollow": 0.00,
+          "min_gravity": 1.08,
+          "max_gravity": 1.999,
+          "fry_color": 8,
+          "corn": 0.0
+        }
+      }
+    ]
+  }
+  
