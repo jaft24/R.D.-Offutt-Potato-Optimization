@@ -24,7 +24,7 @@ Math Model Presentation: https://cord0.sharepoint.com/:p:/r/sites/potatoes/Share
 Python installation: https://www.python.org/downloads/release/python-3120/
 
 Group Member Emails:
-Jaleta Tesgera: jtesgera@cord.edu
-Alex Trujillo: atrujil2@cord.edu
+Jaleta Tesgera: jtesgera@cord.edu \n
+Alex Trujillo: atrujil2@cord.edu /n
 Britta Nordin: bnordin@cord.edu
 Pedro Ochoa:pochoa@cord.edu
