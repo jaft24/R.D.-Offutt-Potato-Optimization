@@ -1,5 +1,4 @@
-# RDO_Peak
-Peak Project for Operations Research Management
+# RDO_Potato_Optimization_LP
 
 Final Report: https://docs.google.com/document/d/1zapdgiEGfhCUaYpmVUBK3kXq6Ybd9UjI6dO0AiIo59U/edit?usp=sharing
 
@@ -24,12 +23,8 @@ Math Model Presentation: https://cord0.sharepoint.com/:p:/r/sites/potatoes/Share
 
 Python installation: https://www.python.org/downloads/release/python-3120/
 
-Visual Studio Code: https://code.visualstudio.com/download 
-
-test
-
 Group Member Emails:
-Alex Trujillo: atrujil2@cord.edu
 Jaleta Tesgera: jtesgera@cord.edu
+Alex Trujillo: atrujil2@cord.edu
 Britta Nordin: bnordin@cord.edu
 Pedro Ochoa:pochoa@cord.edu
